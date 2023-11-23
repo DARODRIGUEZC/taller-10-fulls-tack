@@ -41,7 +41,7 @@
 <img src="./public/images/punto-12.png" alt="punto 12">
 
 <h2>Punto 13: Suma de valores de un arreglo usando Foreach</h2>
-<img src="./public/images/punto-13.png" alt="punto 13">
+<img src="./public/images/PUNTO-13.png" alt="punto 13">
 
 <h2>Punto 14: Revisión de contraseña</h2>
 
