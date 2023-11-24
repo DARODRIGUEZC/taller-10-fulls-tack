@@ -44,5 +44,7 @@
 <img src="./public/images/PUNTO-13.png" alt="punto 13">
 
 <h2>Punto 14: Revisión de contraseña</h2>
+<img src="./public/images/punto-14.png" alt="punto 14"
 
 <h2>Punto 15: Selección de operación aritmética usando funciones</h2>
+<img src="./public/images/punto-15.png" alt="punto 15">
